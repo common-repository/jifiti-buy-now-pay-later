@@ -1,0 +1,16 @@
+#jifiti_place_order {
+    width: 100%;
+    text-transform: uppercase;
+}
+.hide-element {
+    display: none !important;
+}
+
+.payment_method_jifitipayment img {
+    width: auto;
+    height: auto;
+    max-width: 100px;
+    max-height: 30px;
+    vertical-align: middle;
+    margin-bottom: 0.3rem;
+}
